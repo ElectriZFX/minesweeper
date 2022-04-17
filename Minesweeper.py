@@ -85,6 +85,7 @@ class Cell:
         self.__flag = False
         
 class Minesweeper:
+    # Change below the number of cells in rows and columns.
     def __init__(self, nb_row=10, nb_col=20):
         """Minesweeper, int, int -> None
         Create a minesweeper"""
