@@ -19,7 +19,7 @@ Screenshot victory
 
 ![W](https://user-images.githubusercontent.com/42153310/163695591-5760e43d-b662-4e17-8c74-666568eca9f6.png)
 
-Screenshot lost
+Screenshot defeat
 
 
 ![L](https://user-images.githubusercontent.com/42153310/163695412-8c29a9df-4428-4b93-99ae-282045ef0642.png)
